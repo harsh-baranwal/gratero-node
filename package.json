@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/harsh-baranwal/gratero-node/issues"
   },
-  "homepage": "https://docs.gratero.com",
+  "homepage": "https://github.com/harsh-baranwal/gratero-node#readme",
   "devDependencies": {
     "@types/node": "^20.14.2",
     "typescript": "^5.4.5"
